@@ -34,16 +34,7 @@ Dive into the world of virtual reality with our state-of-the-art app, combining 
 4. **Combine Images**: Merge your original image with the new background seamlessly.
 5. **Save & Share**: Save your creation and share it with your friends and on social media platforms.
 
-## Gallery
 
-![VR DALL-E App Screenshot 1](images/VR_DALLE_App_Screenshot1.png)
-![VR DALL-E App Screenshot 2](images/VR_DALLE_App_Screenshot2.png)
-
-## Links
-
-- [Download on Playstore](link_to_google_play_store_page_of_app)
-- [Official Website](link_to_website)
-- [User Guide](link_to_user_guide)
 
 ---
 
