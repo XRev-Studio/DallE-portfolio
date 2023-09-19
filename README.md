@@ -2,7 +2,7 @@
 
 **BRING YOUR IMAGES TO LIFE WITH OUR REVOLUTIONARY VR APP – A XREV STUDIO INNOVATION**
 
-![VR DALL-E App Banner](images/VR_DALLE_App_Banner.png)
+![VR DALL-E App Banner](images/dalle.png)
 
 ## About VR Background Removal and DALL-E Integration App
 
