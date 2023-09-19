@@ -34,7 +34,10 @@ Dive into the world of virtual reality with our state-of-the-art app, combining 
 4. **Combine Images**: Merge your original image with the new background seamlessly.
 5. **Save & Share**: Save your creation and share it with your friends and on social media platforms.
 
+## Video Showcase
 
+<a href="https://www.youtube.com/watch?v=xG_Vk6nXeM" target="_blank"><img src="https://img.youtube.com/vi/xG_Vk6nXeM/0.jpg" 
+alt="Ball Sort Game Video 1" width="240" height="180" border="10" /></a>
 
 ---
 
